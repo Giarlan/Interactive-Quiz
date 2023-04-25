@@ -3,12 +3,19 @@
 
 > #### Status: Accomplished ✅
 
+> ### Briefing
+>     This project bring us a quiz app related to HTM, CSS and JavaScript knowledge.
+>     It aims at the improvement of skills as a developer by using this three technologies and mostly the DOM manipulation with JS.
+
 > ### Features
 > - [X] Question Field
 > - [X] Restart button
 
 > ### Home Page
-> ![Weather](https://user-images.githubusercontent.com/108962578/232352832-85df4e87-d902-4f96-8b5e-4d90a45d723f.png)
+> ![Capturar](https://user-images.githubusercontent.com/108962578/234414102-64067fee-eee2-456d-ad80-329a1cfdbc73.PNG)
+
+> ### Prerequisites to run it
+>     You only need a browser to click on the following link and run the application.
 
 > ### Deploy
 > * Test by using the link below
