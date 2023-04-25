@@ -4,7 +4,7 @@
 > #### Status: Accomplished ✅
 
 > ### Briefing
->     This project bring us a quiz app related to HTM, CSS and JavaScript knowledge.
+>     This project bring us a quiz app related to HTML, CSS and JavaScript knowledge.
 >     It aims at the improvement of skills as a developer by using this three technologies and mostly the DOM manipulation with JS.
 
 > ### Features
