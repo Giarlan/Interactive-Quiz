@@ -10,18 +10,18 @@ body {
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
-    background-image: linear-gradient(120deg, #ffe53bd8, crimson);
+    background-color: #e0e0e0;
     font-family: Arial, Helvetica, sans-serif;
     padding: 8px;
 }
 
 h1 {
-    color: rgba(27, 15, 12, 0.64);
+    color: #41624fd8;
     margin: 20px 0;
 }
 
 h2 {
-    color: #812424d8
+    color: #41624fd8;
 }
 
 .progress {
@@ -48,7 +48,7 @@ h2 {
 }
 
 .question {
-    color: rgb(90, 100, 74);
+    color: #1a1a1a;
     font-size: 20px;
     margin: 20px 0;
 }
@@ -59,7 +59,7 @@ h2 {
     background-color: rgba(0, 0, 0, 0.3);
     border-radius: 10px;
     margin-bottom: 5px;
-    color: rgb(216, 235, 188);
+    color: rgb(245, 252, 255);
     font-size: 20px;
     cursor: pointer;
 }
@@ -73,7 +73,7 @@ h2 {
     margin-left: 5px;
     margin-right: 10px;
     background-color: rgba(0, 0, 0, 0.8);
-    color: rgb(216, 235, 188);
+    color: rgb(245, 252, 255);
 }
 .option:hover {
     background-color: rgba(0, 0, 0, 0.2);
