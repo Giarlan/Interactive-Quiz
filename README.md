@@ -12,7 +12,7 @@
 > - [X] Restart button
 
 > ### Home Page
-> ![Capturar](https://user-images.githubusercontent.com/108962578/234414102-64067fee-eee2-456d-ad80-329a1cfdbc73.PNG)
+>   ![Capturar](https://user-images.githubusercontent.com/108962578/234691892-9be79a0c-052b-44fe-8867-397d3862cb77.PNG)
 
 > ### Prerequisites to run it
 >     You only need a browser to click on the following link and run the application.
